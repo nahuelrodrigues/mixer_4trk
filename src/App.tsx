@@ -24,40 +24,40 @@ const TRACKS: Track[] = [
     id: 1,
     name: 'TRACK_01',
     stems: {
-      drums: '/publicaudio/webStem1.mp3',
-      bass: '/publicaudio/webStem1.mp3',
-      melody: '/publicaudio/webStem1.mp3',
-      vocals: '/publicaudio/webStem1.mp3',
+      drums: '/audio/webStem1.mp3',
+      bass: '/audio/webStem1.mp3',
+      melody: '/audio/webStem1.mp3',
+      vocals: '/audio/webStem1.mp3',
     }
   },
   {
     id: 2,
     name: 'TRACK_02',
     stems: {
-      drums: '/publicaudio/webStem2.mp3',
-      bass: '/publicaudio/webStem2.mp3',
-      melody: '/publicaudio/webStem2.mp3',
-      vocals: '/publicaudio/webStem2.mp3',
+      drums: '/audio/webStem2.mp3',
+      bass: '/audio/webStem2.mp3',
+      melody: '/audio/webStem2.mp3',
+      vocals: '/audio/webStem2.mp3',
     }
   },
   {
     id: 3,
     name: 'TRACK_03',
     stems: {
-      drums: '/publicaudio/webStem3.mp3',
-      bass: '/publicaudio/webStem3.mp3',
-      melody: '/publicaudio/webStem3.mp3',
-      vocals: '/publicaudio/webStem3.mp3',
+      drums: '/audio/webStem3.mp3',
+      bass: '/audio/webStem3.mp3',
+      melody: '/audio/webStem3.mp3',
+      vocals: '/audio/webStem3.mp3',
     }
   },
   {
     id: 4,
     name: 'TRACK_04',
     stems: {
-      drums: '/publicaudio/webStem4.mp3',
-      bass: '/publicaudio/webStem4.mp3',
-      melody: '/publicaudio/webStem4.mp3',
-      vocals: '/publicaudio/webStem4.mp3',
+      drums: '/audio/webStem4.mp3',
+      bass: '/audio/webStem4.mp3',
+      melody: '/audio/webStem4.mp3',
+      vocals: '/audio/webStem4.mp3',
     }
   }
 ];
