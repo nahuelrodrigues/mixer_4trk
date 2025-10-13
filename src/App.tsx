@@ -225,7 +225,7 @@ function App() {
       <div className="max-w-7xl mx-auto">
         <header className="border-4 border-white p-6 mb-8 bg-black">
           <h1 className="text-5xl font-black tracking-tighter">
-            ミキサー / MIXER_4TRK
+           UTSU 
           </h1>
 
           <div className="mt-6 grid grid-cols-2 gap-6">
